@@ -1,0 +1,1 @@
+{"categorias": [{"id":2, "nombre":"cocina", "productos":[]},{"id":1,"nombre":"tecnologia","productos":[{"id":1,"nombre":"iphone","precio":200.0}]},{"id":3,"nombre":"hogar","productos":[]}],"productos":[{"id":1,"nombre":"iphone","precio":200.0}]}
